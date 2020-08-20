@@ -39,7 +39,7 @@ new Vue({
           {
             name: "Mekanın Sahibi",
             artist: "Norm Ender",
-            cover: "img/1.jpg",
+            cover: "https://github.com/charmilgandhi/Music_Player.io/blob/master/img/1.jpg",
             source: "../mp3/1.mp3",
             url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
             favorited: false
